@@ -1,9 +1,0 @@
-Item #;Designator;Description;Quantity;Footprint
-1;U1;ESP32-WROOM-32 DevKit V1;1;2x15 Pin Header 
-2;SV1, SV2;Mini360 DC-DC Buck Converter;2;Custom Module 
-3;U4, U5;100uF Electrolytic Capacitor;2;Radial 
-4;OLED1;"0.96"" I2C OLED Display";1;1x4 Pin Header 
-5;PR1;10K Potentiometer;1;Through-hole 
-6;SW1;Tactile Push Button;1;6x6mm Tact Switch 
-7;H1;Analog Microphone Module;1;1x5 Pin Header 
-8;U7;2-Pin Screw Terminal (Klemens);1;5.08mm Pitch 
